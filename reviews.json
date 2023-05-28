@@ -1,0 +1,101 @@
+{
+    "reviews": [
+      {
+        "id": 1,
+        "appID": "com.example.app",
+        "appStoreName": "App Store",
+        "reviewDate": "2022-01-10T13:45:00",
+        "rating": 5,
+        "version": "2.0",
+        "countryName": "United States",
+        "reviewHeading": "Great app!",
+        "reviewText": "This app is amazing. It has all the features I need and works flawlessly.",
+        "reviewUserName": "JohnDoe"
+      },
+      {
+        "id": 2,
+        "appID": "com.example.app",
+        "appStoreName": "Google Play",
+        "reviewDate": "2022-02-20T09:15:00",
+        "rating": 3,
+        "version": "1.5",
+        "countryName": "Canada",
+        "reviewHeading": "Needs improvement",
+        "reviewText": "The app is decent, but it could use some enhancements. The UI is a bit clunky.",
+        "reviewUserName": "JaneSmith"
+      },
+      {
+        "id": 3,
+        "appID": "com.example.app",
+        "appStoreName": "App Store",
+        "reviewDate": "2022-03-05T16:20:00",
+        "rating": 4,
+        "version": "2.1",
+        "countryName": "United Kingdom",
+        "reviewHeading": "Impressive functionality",
+        "reviewText": "I'm impressed with the app's functionality. It's easy to use and has a lot of useful features.",
+        "reviewUserName": "DavidJohnson"
+      },
+      {
+        "id": 4,
+        "appID": "com.example.app",
+        "appStoreName": "Google Play",
+        "reviewDate": "2022-04-15T14:10:00",
+        "rating": 2,
+        "version": "1.2",
+        "countryName": "Australia",
+        "reviewHeading": "Disappointing experience",
+        "reviewText": "I had high expectations for this app, but it fell short. It's slow and crashes frequently.",
+        "reviewUserName": "EmilyBrown"
+      },
+      {
+        "id": 37,
+        "appID": "com.example.app",
+        "appStoreName": "App Store",
+        "reviewDate": "2022-11-18T08:30:00",
+        "rating": 4,
+        "version": "2.2",
+        "countryName": "Germany",
+        "reviewHeading": "Good overall",
+        "reviewText": "The app works well and has a clean interface. Some minor bugs need fixing, though.",
+        "reviewUserName": "MarkWilson"
+      },
+      {
+        "id": 38,
+        "appID": "com.example.app",
+        "appStoreName": "Google Play",
+        "reviewDate": "2022-12-01T16:50:00",
+        "rating": 5,
+        "version": "1.8",
+        "countryName": "Spain",
+        "reviewHeading": "Absolutely love it!",
+        "reviewText": "This app is a game-changer. It's made my life so much easier. Highly recommended!",
+        "reviewUserName": "SophiaAnderson"
+      },
+      {
+        "id": 39,
+        "appID": "com.example.app",
+        "appStoreName": "App Store",
+        "reviewDate": "2023-01-05T10:20:00",
+        "rating": 3,
+        "version": "2.5",
+        "countryName": "France",
+        "reviewHeading": "Average app",
+        "reviewText": "The app has some useful features, but it lacks stability. It crashes occasionally.",
+        "reviewUserName": "DanielSmith"
+      },
+      {
+        "id": 40,
+        "appID": "com.example.app",
+        "appStoreName": "Google Play",
+        "reviewDate": "2023-02-10T12:15:00",
+        "rating": 4,
+        "version": "1.4",
+        "countryName": "Brazil",
+        "reviewHeading": "Works well",
+        "reviewText": "I've been using this app for a while now, and it hasn't let me down. Good job!",
+        "reviewUserName": "IsabellaJohnson"
+      }
+    ]
+  }
+  
